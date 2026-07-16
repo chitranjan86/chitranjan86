@@ -50,8 +50,8 @@
 ## 🏆 Competitive Programming
 
 - ✅ Solved **600+ DSA Problems**
-- ⭐ CodeChef Rating: **1304**
-- ⭐ Codeforces Rating: **1100+**
+- ⭐ CodeChef Rating: **1360**
+- ⭐ Codeforces Rating: **1113**
 - 💡 Strong in Graphs, Trees, DP, Binary Search, Greedy & Backtracking
 
 ---
