@@ -10,7 +10,6 @@
 ## 👨‍💻 About Me
 
 - 🎓 Computer Science Engineering Undergraduate
-- 💼 Placed at **TCS**
 - 💻 Passionate about **Java Backend Development**
 - 🌱 Currently learning **Spring Boot, Spring AI, System Design & Microservices**
 - 🚀 Solved **600+ DSA problems** across LeetCode, CodeChef, Codeforces & GeeksforGeeks
@@ -61,15 +60,15 @@
 
 <p align="left">
 
-<a href="https://leetcode.com/u/YOUR_USERNAME/">
+<a href="[https://leetcode.com/u/YOUR_USERNAME/](https://leetcode.com/u/chitranjan110-/)">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<a href="https://www.codechef.com/users/YOUR_USERNAME">
+<a href="[https://www.codechef.com/users/YOUR_USERNAME](https://www.codechef.com/users/chitranjan_k)">
 <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
 
-<a href="https://codeforces.com/profile/YOUR_USERNAME">
+<a href="[https://codeforces.com/profile/YOUR_USERNAME](https://codeforces.com/profile/Chetan169)">
 <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
 
