@@ -100,17 +100,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-
-</p>
-
----
 
 ## 📈 Most Used Languages
 
@@ -122,15 +111,6 @@
 
 ---
 
-## 👀 Profile Views
-
-<p align="left">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
-
-</p>
-
----
 
 <p align="center">
 
